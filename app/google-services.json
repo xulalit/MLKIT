@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "394155510003",
+    "firebase_url": "https://sneaker-user.firebaseio.com",
+    "project_id": "sneaker-user",
+    "storage_bucket": "sneaker-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394155510003:android:a105ef286f2acb3b880f86",
+        "android_client_info": {
+          "package_name": "com.codemobiles.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394155510003-m6r9672gpc43ie3jbpc2kqt17q7d50ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codemobiles.demo",
+            "certificate_hash": "27f39c1865c6d21191529854537ea8f0112808f8"
+          }
+        },
+        {
+          "client_id": "394155510003-oa3gugprgl8mvlcq2uordc2kkqcfkh45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwxpeQf_kJ2y224sURpaXebsgdQyeaj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394155510003-oa3gugprgl8mvlcq2uordc2kkqcfkh45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394155510003:android:0a0a28462b6ea60c880f86",
+        "android_client_info": {
+          "package_name": "com.codemobiles.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394155510003-jdlggfecebfjeftu22nhhqcge15q57hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codemobiles.myapplication",
+            "certificate_hash": "27f39c1865c6d21191529854537ea8f0112808f8"
+          }
+        },
+        {
+          "client_id": "394155510003-oa3gugprgl8mvlcq2uordc2kkqcfkh45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwxpeQf_kJ2y224sURpaXebsgdQyeaj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394155510003-oa3gugprgl8mvlcq2uordc2kkqcfkh45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394155510003:android:31815058b807f76f880f86",
+        "android_client_info": {
+          "package_name": "com.codemobiles.sneakerrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394155510003-cu1ufmc0u0db6m0f3gsm59eidj7v4abu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codemobiles.sneakerrecognition",
+            "certificate_hash": "27f39c1865c6d21191529854537ea8f0112808f8"
+          }
+        },
+        {
+          "client_id": "394155510003-oa3gugprgl8mvlcq2uordc2kkqcfkh45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwxpeQf_kJ2y224sURpaXebsgdQyeaj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394155510003-oa3gugprgl8mvlcq2uordc2kkqcfkh45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
